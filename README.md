@@ -1,1 +1,2 @@
 # Lottery-Smart-contract
+In this repository, a smart contract implementing a lottery system has been developed. This smart contract is different from others as such this contract can actually declare multiple winners. Now as the curretn version of the smart contract takes strings as inputs for lottery candidates, this contract will accept around 100 entries at a time and can declare 90 winners out of them. But if you change the candidate information to an uint256, this limit would multiply
